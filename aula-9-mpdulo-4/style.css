@@ -1,0 +1,21 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing:border-box;
+}
+
+:root {
+   /* --font: white;*/
+    --background:#262338;
+    --primary: ;
+    --secondary: ;
+
+    --border-md: 4px;
+    --border-lg: 20px;
+
+
+}
+body{
+
+    
+}
